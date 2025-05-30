@@ -1,1 +1,1 @@
-# Altium-Designer-Essentials-Specialization
+Altium Designer Essentials with Altium 365 Training

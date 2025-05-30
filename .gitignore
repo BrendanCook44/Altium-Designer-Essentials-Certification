@@ -18,3 +18,9 @@ Status\ Report.txt
 
 # Lock files sometimes left behind
 .~lock.*
+
+# Access lock file for dbLib sources
+**/*.ldb
+
+# Document Local Metadata
+*.metadata

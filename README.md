@@ -10,4 +10,4 @@ For more information about the certification, visit the [Altium Designer Essenti
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YourUsername/Altium-Designer-Essentials-Certification
+   git clone https://github.com/BrendanCook44/Altium-Designer-Essentials-Certification
